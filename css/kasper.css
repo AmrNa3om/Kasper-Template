@@ -1317,6 +1317,10 @@ body{
     left: 20px;
 }
 
+.subscribe .container .subscribe-content div input[type="mail"]{
+    color: white;
+}
+
 .subscribe .container .subscribe-content div input:nth-child(2){
     padding: 15px 15px 15px 60px;
     width: calc(100% - 150px);
