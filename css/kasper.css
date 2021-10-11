@@ -77,6 +77,11 @@ body{
     font-family: var(--openSansFont);
 }
 
+::selection{
+    color: white;
+    background-color: var(--mainColor);
+}
+
 .container{
     padding-left: 15px;
     padding-right: 15px;
